@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Portal Custom",
+  "version": "1.0",
+  "description": "Personalizações Local Para O Eclass.",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://portal.educacaoadventista.org.br/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
