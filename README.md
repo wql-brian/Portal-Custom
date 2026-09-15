@@ -4,6 +4,7 @@ Extensão para adicionar funcionalidades ao Eclass!
 ![Tela de configurações Parte 1](Perfil1.png)
 
 
+
 Você pode mudar os widgets que aparecem no menu principal do Eclass!
 ![Menu Sem Widgets](Perfil2.png)
 
