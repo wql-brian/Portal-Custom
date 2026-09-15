@@ -8,6 +8,11 @@ Extensão para adicionar funcionalidades ao Eclass!
 Você pode mudar os widgets que aparecem no menu principal do Eclass!
 ![Menu Sem Widgets](Perfil2.png)
 
-# Lembrando: 
-# Esta extensão não avisa o servidor, não chama o servidor Não rouba seu token, você pode analisar o codigo. o projeto é 100% Codigo aberto.
-Extensão feita por um menino que odeia a interface do eclass.
+# Lembrando
+Esta extensão não envia informações para o servidor do Eclass e não realiza chamadas ao servidor para coletar dados.
+
+A extensão não rouba seu token, cookies ou dados da sua conta. Você pode analisar todo o código-fonte por conta própria: o projeto é 100% código aberto.
+
+As personalizações são armazenadas localmente no navegador e servem apenas para modificar a aparência e o funcionamento da interface para você.
+
+Extensão feita por um menino que odeia a interface do Eclass.
