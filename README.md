@@ -1,9 +1,8 @@
 # Portal-Custom - Modifique oque quer
 Extensão para adicionar funcionalidades ao Eclass!
-                                                  
+![Menu Principal](https://i.imgur.com/WueDPEO.png)
 
 Você pode mudar os widgets que aparecem no menu principal do Eclass!
-![Menu Principal](https://i.imgur.com/WueDPEO.png)
 
 # Lembrando
 Esta extensão não envia informações para o servidor do Eclass e não realiza chamadas ao servidor para coletar dados.
