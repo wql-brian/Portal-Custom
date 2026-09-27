@@ -2,8 +2,12 @@
 Extensão para adicionar funcionalidades ao Eclass!
 ![Menu Principal](https://i.imgur.com/WueDPEO.png)
 
-Você pode mudar os widgets que aparecem no menu principal do Eclass!
+Mude seu nome e foto de perfil!
+![Mudando foto de perfil](https://i.imgur.com/NCN4Enm.gif)
+![Mudando o Nome](https://i.imgur.com/EiX2SuF.gif)
 
+Você pode mudar os widgets que aparecem no menu principal do Eclass!
+![removendo widgets](https://i.imgur.com/TeoNLeO.gif)
 # Lembrando
 Esta extensão não envia informações para o servidor do Eclass e não realiza chamadas ao servidor para coletar dados.
 
